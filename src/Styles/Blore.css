@@ -1,0 +1,33 @@
+#im {
+    background-image: url("../Images/Bluesky.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+  }
+  #cele {
+    font-size: 150px;
+  }
+  .head {
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+  }
+  .inner {
+    font-size: 20px;
+    height: 100%;
+    width: 100%;
+  
+    background-color: rgb(48, 76, 238);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* #bottom {
+    color: white;
+  }
+   */
